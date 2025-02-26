@@ -31,15 +31,17 @@ Intake
 <img width="840" alt="1  karen-enduser" src="https://github.com/user-attachments/assets/b2388e2a-95e4-4f69-8d39-c46fd3d5e7b3" />
 </p>
 <p>
-As I practice using the simulator, I start by ensuring tickets are correctly created. In this environment, I simulate real-world scenarios where tickets can come from various sources, such as phone calls, emails, web forms, chat apps, or in-person requests. No matter how an issue is reported in the simulator, I create a ticket to track the work, measure performance, and reinforce good habits for when I transition into a real IT setting.</p>
+To properly manage a ticket, I start by ensuring it is correctly created. In a real-world IT setting, tickets can come from various sources, such as phone calls, emails, web forms, chat apps, or even in-person requests. No matter how an issue is reported, I always create a ticket to track the work, measure performance, and ensure no request gets overlooked.
+
 <br />
 <p>
+<br />
   Assignment and Communication
 <p>
 <img width="965" alt="2  Jon-agent-ob" src="https://github.com/user-attachments/assets/ccfb7302-0eac-44b8-8304-097b8bb419f2" />
 </p>
 <p>
-Once the ticket is created in the simulator, I assess its priority level, such as Sev-A or Sev-B, to determine how urgent it is. Then, I assign it to the appropriate department, whether it’s Support, SysAdmins, or Networking, and set the correct Service Level Agreement (SLA) to establish response time expectations. Since this is a practice environment, I take the time to understand how ticket assignment and SLAs work, ensuring that I fully grasp the importance of proper categorization. The simulator helps me get used to the built-in email notification feature, which keeps users updated and allows for simulated follow-ups.
+After the ticket is created, I assess its priority level, such as Sev-A or Sev-B, to determine how urgent it is. Then, I assign it to the appropriate department, whether it’s Support, SysAdmins, or Networking, and set the correct Service Level Agreement (SLA) to establish response time expectations. Communication is key, so I make sure the assigned agent is notified and that the end-user receives updates. Since most ticketing systems, including osTicket, have an email notification feature, I rely on it to keep users informed and allow for easy follow-up.
 
 </p>
 <br />
@@ -48,10 +50,19 @@ Working the Issue
 <img width="975" alt="2a  Tickets-Assigned" src="https://github.com/user-attachments/assets/92200a8b-179f-4b4e-9c99-cafd40bd3c5c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+With the ticket assigned, I begin troubleshooting and working on the issue. I diagnose the problem, apply a fix, and document every step to ensure clarity for future reference. Throughout this process, I maintain clear and professional communication with the end-user, providing updates and explanations as needed. If the issue requires escalation, I transfer the ticket to a higher-level team, such as SysAdmins, and confirm that the new agent has the necessary permissions to continue working on it.
+
 </p>
 <br />
 Resolution
 <p></p>
 <img width="962" alt="John-resolved" src="https://github.com/user-attachments/assets/3fd38258-d800-4235-8dcb-3259aa09bce6" />
+<p></p>
+Once the issue is resolved, I finalize the ticket by adding resolution notes that can be referenced later if needed. Before closing it, I notify the end-user to confirm that everything is working as expected. Even after closure, I remain aware that users can still respond via email with follow-up questions, so I ensure my documentation is thorough and my communication remains professional throughout the entire ticket lifecycle.
+
+
+
+
+
+
 
